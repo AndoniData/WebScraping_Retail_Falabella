@@ -26,4 +26,4 @@ __pycache__/
 .DS_Store
 
 # Test output
-test/
+tests/
