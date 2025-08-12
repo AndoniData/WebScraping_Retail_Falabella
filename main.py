@@ -9,7 +9,7 @@ def main():
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler(f"process_{time.strftime('%Y%m%d_%H%M%S')}.log", encoding="utf-8"),
+        logging.FileHandler(f"data/logs/process_{time.strftime('%Y%m%d_%H%M%S')}.log", encoding="utf-8"),
         logging.StreamHandler()
         ]
     )
