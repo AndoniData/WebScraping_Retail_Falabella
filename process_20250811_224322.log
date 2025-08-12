@@ -1,0 +1,108 @@
+2025-08-11 22:43:22,154 [INFO] Processing ofertas: https://www.falabella.com/falabella-cl/collection/ofertas
+2025-08-11 22:43:22,154 [INFO] Using default request storage
+2025-08-11 22:43:26,739 [INFO] Created proxy listening on 127.0.0.1:52306
+2025-08-11 22:43:30,730 [INFO] Capturing request: https://firefox.settings.services.mozilla.com/v1/
+2025-08-11 22:43:30,869 [INFO] Capturing response: https://firefox.settings.services.mozilla.com/v1/ 200 
+2025-08-11 22:43:31,393 [INFO] Capturing request: http://detectportal.firefox.com/canonical.html
+2025-08-11 22:43:31,448 [INFO] Capturing response: http://detectportal.firefox.com/canonical.html 200 OK
+2025-08-11 22:43:31,719 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/bundles/startup.json.mozlz4
+2025-08-11 22:43:31,954 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/bundles/startup.json.mozlz4 200 
+2025-08-11 22:43:32,199 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-29-07-20-36.chain
+2025-08-11 22:43:32,245 [INFO] Capturing request: https://www.falabella.com/falabella-cl/collection/ofertas
+2025-08-11 22:43:32,327 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-29-07-20-36.chain 200 
+2025-08-11 22:43:32,585 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:43:32,706 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 200 
+2025-08-11 22:43:32,908 [INFO] Capturing request: https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=mfcdm-origins-list&bucket=main&_expected=0
+2025-08-11 22:43:32,969 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/2f8ed820-f547-4723-9f02-42ce958086d5
+2025-08-11 22:43:33,047 [INFO] Capturing response: https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=mfcdm-origins-list&bucket=main&_expected=0 200 
+2025-08-11 22:43:33,127 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/2f8ed820-f547-4723-9f02-42ce958086d5 200 
+2025-08-11 22:43:33,171 [INFO] Capturing request: https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/mfcdm-origins-list/changeset?_expected=1750871406038
+2025-08-11 22:43:33,246 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4e608ef1-fcc8-4e0d-bba6-325421951fe9
+2025-08-11 22:43:33,311 [INFO] Capturing response: https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/mfcdm-origins-list/changeset?_expected=1750871406038 200 
+2025-08-11 22:43:33,372 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4e608ef1-fcc8-4e0d-bba6-325421951fe9 200 
+2025-08-11 22:43:33,494 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/6444320f-bb21-44bb-ba41-f805f64cd9d8
+2025-08-11 22:43:33,632 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/6444320f-bb21-44bb-ba41-f805f64cd9d8 200 
+2025-08-11 22:43:33,742 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/badbebdd-a3d2-4342-9cd1-04991dc4464a
+2025-08-11 22:43:33,865 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/badbebdd-a3d2-4342-9cd1-04991dc4464a 200 
+2025-08-11 22:43:33,985 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/f90dc324-7c16-4fc1-9e61-be2e625c21eb
+2025-08-11 22:43:34,277 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/f90dc324-7c16-4fc1-9e61-be2e625c21eb 200 
+2025-08-11 22:43:34,400 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/1b5a51b4-16a1-4edb-b3c7-382f6c594c8d
+2025-08-11 22:43:34,722 [INFO] Capturing response: https://www.falabella.com/falabella-cl/collection/ofertas 200 
+2025-08-11 22:43:34,922 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/_next/static/89ebed5d2a985e5645ec3/pages/_app.js
+2025-08-11 22:43:34,926 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/_next/static/89ebed5d2a985e5645ec3/pages/collection.js
+2025-08-11 22:43:34,939 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/_next/static/chunks/commons.b9d39d612914007dd6cf.js
+2025-08-11 22:43:34,947 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/_next/static/runtime/main-73406018faf1b15b8fff.js
+2025-08-11 22:43:34,959 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/_next/static/runtime/webpack-469f930e7cc91fbaeed5.js
+2025-08-11 22:43:34,974 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/styles/svg/sodimac.svg
+2025-08-11 22:43:34,978 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/styles/svg/cmrIcon.svg
+2025-08-11 22:43:34,985 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/styles/svg/falabella.svg
+2025-08-11 22:43:34,992 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Bold.woff2
+2025-08-11 22:43:34,997 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Black.woff2
+2025-08-11 22:43:34,999 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Regular.woff2
+2025-08-11 22:43:35,002 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/icons/fonts/sodimac.woff2?fu3jcb
+2025-08-11 22:43:35,005 [INFO] Capturing request: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Light.woff2
+2025-08-11 22:43:35,009 [INFO] Capturing request: https://www.falabella.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+2025-08-11 22:43:35,015 [INFO] Capturing request: http://detectportal.firefox.com/canonical.html
+2025-08-11 22:43:35,035 [INFO] Capturing response: http://detectportal.firefox.com/canonical.html 200 OK
+2025-08-11 22:43:35,075 [INFO] Capturing request: https://media.falabella.com/sodimacCL/7708742_01/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,078 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80015412_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,080 [INFO] Capturing request: https://media.falabella.com/falabellaCL/17053628_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,087 [INFO] Capturing request: http://detectportal.firefox.com/canonical.html
+2025-08-11 22:43:35,104 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80015420_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,105 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80097718_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,119 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80015415_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,122 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80015837_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,130 [INFO] Capturing response: http://detectportal.firefox.com/canonical.html 200 OK
+2025-08-11 22:43:35,132 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80015412_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,137 [INFO] Capturing request: https://media.falabella.com/falabellaCL/80097684_1/width=240,height=240,quality=70,format=webp,fit=pad
+2025-08-11 22:43:35,141 [INFO] 127.0.0.1:52336: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:43:35,145 [INFO] Capturing response: https://media.falabella.com/falabellaCL/17053628_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,149 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Regular.woff2 200 
+2025-08-11 22:43:35,153 [INFO] 127.0.0.1:52335: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:43:35,159 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/styles/svg/cmrIcon.svg 200 
+2025-08-11 22:43:35,163 [INFO] Capturing response: https://www.falabella.com/cdn-cgi/challenge-platform/scripts/jsd/main.js 302 
+2025-08-11 22:43:35,166 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/styles/svg/sodimac.svg 200 
+2025-08-11 22:43:35,175 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/_next/static/89ebed5d2a985e5645ec3/pages/collection.js 200 
+2025-08-11 22:43:35,179 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Bold.woff2 200 
+2025-08-11 22:43:35,182 [INFO] Capturing response: https://media.falabella.com/sodimacCL/7708742_01/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,189 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/styles/svg/falabella.svg 200 
+2025-08-11 22:43:35,194 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Light.woff2 200 
+2025-08-11 22:43:35,198 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80015420_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,200 [INFO] 127.0.0.1:52332: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:43:35,201 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/_next/static/runtime/webpack-469f930e7cc91fbaeed5.js 200 
+2025-08-11 22:43:35,208 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80097718_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,210 [INFO] 127.0.0.1:52337: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:43:35,213 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80015415_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,217 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80015837_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,228 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/icons/fonts/sodimac.woff2?fu3jcb 200 
+2025-08-11 22:43:35,259 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/static/fonts/Lato-Black.woff2 200 
+2025-08-11 22:43:35,275 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/1b5a51b4-16a1-4edb-b3c7-382f6c594c8d 200 
+2025-08-11 22:43:35,289 [INFO] Capturing request: https://www.falabella.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/8359bcf47b68/main.js?
+2025-08-11 22:43:35,305 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/_next/static/runtime/main-73406018faf1b15b8fff.js 200 
+2025-08-11 22:43:35,459 [INFO] Capturing response: https://media.falabella.com/falabellaCL/80097684_1/width=240,height=240,quality=70,format=webp,fit=pad 200 
+2025-08-11 22:43:35,461 [INFO] 127.0.0.1:52334: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:43:35,474 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/d69dc29c-b97b-4c8e-9bfd-643f0c0a9f33
+2025-08-11 22:43:35,551 [INFO] Capturing response: https://www.falabella.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/8359bcf47b68/main.js? 200 
+2025-08-11 22:43:35,597 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/d69dc29c-b97b-4c8e-9bfd-643f0c0a9f33 200 
+2025-08-11 22:43:35,598 [INFO] Capturing request: https://www.falabella.com/cdn-cgi/challenge-platform/h/b/jsd/r/0.2575477128900515:1754964761:B2nyKmLgTXB7gwqoFZCOSOOMz5iyak4oiA0ndDa8nnY/96dca029ec09e9a8
+2025-08-11 22:43:35,720 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/1cf961f8-85ee-4a28-a323-7fb46d7b4456
+2025-08-11 22:43:35,727 [INFO] Capturing request: http://detectportal.firefox.com/canonical.html
+2025-08-11 22:43:35,745 [INFO] Capturing response: http://detectportal.firefox.com/canonical.html 200 OK
+2025-08-11 22:43:35,751 [INFO] Capturing response: https://www.falabella.com/cdn-cgi/challenge-platform/h/b/jsd/r/0.2575477128900515:1754964761:B2nyKmLgTXB7gwqoFZCOSOOMz5iyak4oiA0ndDa8nnY/96dca029ec09e9a8 200 
+2025-08-11 22:43:35,845 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/1cf961f8-85ee-4a28-a323-7fb46d7b4456 200 
+2025-08-11 22:43:35,954 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4159b567-5aad-42d1-aa0a-650dc5f244e9
+2025-08-11 22:43:36,079 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4159b567-5aad-42d1-aa0a-650dc5f244e9 200 
+2025-08-11 22:43:36,188 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/3fa987d8-833a-4ae0-bffb-260ffc2c7902
+2025-08-11 22:43:36,327 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/3fa987d8-833a-4ae0-bffb-260ffc2c7902 200 
+2025-08-11 22:43:36,448 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4cd560d7-528b-41e7-acf1-439f8e9df094
+2025-08-11 22:43:36,572 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/4cd560d7-528b-41e7-acf1-439f8e9df094 200 
+2025-08-11 22:43:36,680 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/70cfc206-5b7f-44ad-9a4c-c8f5dd1f379f
+2025-08-11 22:43:36,802 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/70cfc206-5b7f-44ad-9a4c-c8f5dd1f379f 200 
+2025-08-11 22:43:36,924 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/48d07724-5cc4-4bdd-92e9-7f8b551b3a58
+2025-08-11 22:43:37,061 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/48d07724-5cc4-4bdd-92e9-7f8b551b3a58 200 
+2025-08-11 22:43:37,181 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/874407ef-cbc1-4aae-8004-2e796edc11ba
+2025-08-11 22:43:37,306 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/874407ef-cbc1-4aae-8004-2e796edc11ba 200 
+2025-08-11 22:43:37,426 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/ec8d92a4-d934-4902-98e4-5006e0124630
+2025-08-11 22:43:37,562 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/ec8d92a4-d934-4902-98e4-5006e0124630 200 
+2025-08-11 22:43:38,298 [INFO] Capturing response: https://www.falabella.com/a/fa/listing/_next/static/89ebed5d2a985e5645ec3/pages/_app.js 200 
+2025-08-11 22:43:39,176 [INFO] 127.0.0.1:52329: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1754966619.0760114, False')")

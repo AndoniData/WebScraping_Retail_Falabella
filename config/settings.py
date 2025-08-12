@@ -32,12 +32,3 @@ utils = load_utils()
 id_element, fa_api_structure = utils
 
 list_urls = load_json_urls()
-
-if __name__ == "__main__":
-    print("Log Path:", log_path)
-    print("Cache Path:", cache_path)
-    print("CSV Path:", csv_path)
-    print("ID Element:", id_element)
-    print("FA API Structure:", fa_api_structure)
-    print("URLs List:")
-    print(list_urls)

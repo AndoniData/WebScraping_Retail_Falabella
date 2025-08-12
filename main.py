@@ -28,7 +28,7 @@ def main():
                 for page_num in range(1, 2):
                     logger.info(f"Fetching data for page {page_num}...")
                     response = fetch_page_data([result], page_num)
-                    #time.sleep(3)
+                    time.sleep(3)
                     if not response or response.get("data", {}).get("results", []) == []:
                         logger.info(f"No data found on page {page_num}. Stopping extraction for this result.")
                         break

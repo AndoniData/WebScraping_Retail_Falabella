@@ -1,0 +1,33 @@
+2025-08-11 22:44:20,780 [INFO] Processing ofertas: https://www.falabella.com/falabella-cl/collection/ofertas
+2025-08-11 22:44:20,780 [INFO] Using default request storage
+2025-08-11 22:44:20,789 [INFO] Created proxy listening on 127.0.0.1:52378
+2025-08-11 22:44:24,784 [INFO] Capturing request: https://firefox.settings.services.mozilla.com/v1/
+2025-08-11 22:44:24,928 [INFO] Capturing response: https://firefox.settings.services.mozilla.com/v1/ 200 
+2025-08-11 22:44:25,548 [INFO] Capturing request: http://detectportal.firefox.com/canonical.html
+2025-08-11 22:44:25,597 [INFO] Capturing response: http://detectportal.firefox.com/canonical.html 200 OK
+2025-08-11 22:44:25,831 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/bundles/startup.json.mozlz4
+2025-08-11 22:44:26,062 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/bundles/startup.json.mozlz4 200 
+2025-08-11 22:44:26,262 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-29-07-20-36.chain
+2025-08-11 22:44:26,309 [INFO] Capturing request: https://www.falabella.com/falabella-cl/collection/ofertas
+2025-08-11 22:44:26,387 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-29-07-20-36.chain 200 
+2025-08-11 22:44:26,633 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:26,755 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 200 
+2025-08-11 22:44:26,892 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:27,014 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 304 
+2025-08-11 22:44:27,151 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:27,277 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 304 
+2025-08-11 22:44:27,401 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:27,524 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 304 
+2025-08-11 22:44:27,646 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:27,769 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 304 
+2025-08-11 22:44:27,906 [INFO] Capturing request: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain
+2025-08-11 22:44:28,030 [INFO] Capturing response: https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-09-08-21-33-59.chain 304 
+2025-08-11 22:44:28,140 [INFO] Capturing request: https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=mfcdm-origins-list&bucket=main&_expected=0
+2025-08-11 22:44:28,200 [INFO] Capturing request: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/2f8ed820-f547-4723-9f02-42ce958086d5
+2025-08-11 22:44:28,263 [INFO] Capturing response: https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=mfcdm-origins-list&bucket=main&_expected=0 200 
+2025-08-11 22:44:28,277 [INFO] 127.0.0.1:52400: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1754966668.1699069, False')")
+2025-08-11 22:44:28,339 [INFO] Capturing response: https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/tracking-protection-lists/2f8ed820-f547-4723-9f02-42ce958086d5 200 
+2025-08-11 22:44:28,485 [INFO] 127.0.0.1:52396: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:44:28,485 [INFO] 127.0.0.1:52398: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:44:28,486 [INFO] 127.0.0.1:52392: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
+2025-08-11 22:44:28,486 [INFO] 127.0.0.1:52400: HTTP/2 connection terminated by client: error code: 0, last stream id: 0, additional data: None
