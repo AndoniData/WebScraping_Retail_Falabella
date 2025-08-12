@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Data and cache
+data/
+data_source/
+data/cache/
+data/collections_history/
+data/collection_xml/
+
+# Compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE/editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Test output
+test/
