@@ -1,0 +1,45 @@
+from src.response_functions import extract_parameters_request, fetch_page_data
+from src.data_handlers import save_data_collection, reset_cache
+from config.settings import fa_api_structure, list_urls
+import logging as log
+import time
+
+# def main():
+#     log.basicConfig(level=log.INFO)
+#     logger = log.getLogger(__name__)
+
+#     target_url = "https://www.falabella.com/falabella-cl/collection/skincare-coreano"
+#     #target_url = "https://www.falabella.com/falabella-cl/collection/ofertas"
+#     #target_url = "https://www.falabella.com/falabella-cl/collection/consolas-reacondicionadas"
+#     #fa_api_structure = "/s/browse/v1/collection/cl"
+
+#     logger.info("Starting browser session...")
+#     results = extract_parameters_request(target_url, fa_api_structure)
+
+#     if results:
+#         logger.info("Parameters extracted successfully.")
+#         for result in results:
+#             pages_extracted = 0
+#             for page_num in range(1, 3):
+#                 logger.info(f"Fetching data for page {page_num}...")
+#                 response = fetch_page_data([result], page_num)
+#                 time.sleep(3)
+#                 if not response or response.get("data", {}).get("results", []) == []:
+#                     logger.info(f"No data found on page {page_num}. Stopping extraction for this result.")
+#                     break
+#                 pages_extracted += 1
+#             logger.info(f"Extracted {pages_extracted} pages for this result.")
+#     else:
+#         logger.warning("No parameters extracted.")
+
+#     logger.info("Checking for cached responses...")
+    
+#     if not save_data_collection():
+#         logger.warning("No data to save or an error occurred during saving.")
+#     else:
+#         logger.info("Data collection saved successfully.")
+
+#     reset_cache()
+
+
+####---------------------------------------------------------------------------------------####
