@@ -27,3 +27,7 @@ __pycache__/
 
 # Test output
 tests/
+
+# Config protection
+config/url_base - backup.json
+config/url_base.json
